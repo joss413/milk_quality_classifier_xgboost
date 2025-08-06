@@ -57,7 +57,7 @@ Model Training & Evaluation
 
 ## 📈 Confusion Matrix
 
-Example of confusion matrix for the test set:
+Example of confusion matrix for the test set of XGBoost (Tuned) :
 
 <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="400">
 
@@ -86,6 +86,7 @@ Yoseph Negash
 📧 yosephn22@gmail.com
 
 📅 2025
+
 
 
 
