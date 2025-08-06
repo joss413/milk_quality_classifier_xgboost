@@ -34,16 +34,16 @@ Train-Test Split
 
 Model Training & Evaluation
 
-Trained the following models:
+-> Trained the following models:
 
 - Logistic Regression
 - Decision Tree
 - Gradient Boosting (default)
 - XGBoost (default and tuned)
 
-Used accuracy_score, classification_report, and confusion_matrix for evaluation
+-> Used accuracy_score, classification_report, and confusion_matrix for evaluation
 
-Visualized confusion matrix using seaborn
+-> Visualized confusion matrix using seaborn
 
 ## 🧾 Results Summary
 
@@ -86,5 +86,6 @@ Yoseph Negash
 📧 yosephn22@gmail.com
 
 📅 2025
+
 
 
